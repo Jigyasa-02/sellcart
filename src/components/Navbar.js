@@ -5,12 +5,11 @@ class navbar  extends React.Component {
     render() { 
         return (
           <div>
-            <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
-        <div className="container-fluid">
-        // eslint-disable-next-line
-          <a className="navbar-brand" href="#">Jigyasa Cart</a>
-        </div>
-      </nav>
+            <nav class="navbar navbar-light bg-light">
+  <div class="container-fluid">
+    <span class="navbar-brand mb-0 h1">Sellcart</span>
+  </div>
+</nav>
       <div>
       <div
   id="carouselExampleInterval"
