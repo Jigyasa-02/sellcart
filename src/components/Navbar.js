@@ -7,6 +7,7 @@ class navbar  extends React.Component {
           <div>
             <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
         <div className="container-fluid">
+        // eslint-disable-next-line
           <a className="navbar-brand" href="#">Jigyasa Cart</a>
         </div>
       </nav>
