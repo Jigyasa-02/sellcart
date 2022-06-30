@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/school/static/css/main.feb1e069.css",
-    "main.js": "/school/static/js/main.6e8f29a5.js",
-    "index.html": "/school/index.html",
-    "main.feb1e069.css.map": "/school/static/css/main.feb1e069.css.map",
-    "main.6e8f29a5.js.map": "/school/static/js/main.6e8f29a5.js.map"
+    "main.css": "/sellcart/static/css/main.feb1e069.css",
+    "main.js": "/sellcart/static/js/main.6e8f29a5.js",
+    "index.html": "/sellcart/index.html",
+    "main.feb1e069.css.map": "/sellcart/static/css/main.feb1e069.css.map",
+    "main.6e8f29a5.js.map": "/sellcart/static/js/main.6e8f29a5.js.map"
   },
   "entrypoints": [
     "static/css/main.feb1e069.css",
